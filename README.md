@@ -2,7 +2,12 @@
 
 ![preview](./docs/img.png)
 
-Front-end de um formulario para criação de eventos
+>Front-end de um formulario para criação de eventos.
+
+Projeto construido para demonstrar o front-end de um formulario
+
+[clique aqui para acessar](https://ricardo-g-r.github.io/Formularios/)
+
 
 ## ⚒ Tecnologias
 
